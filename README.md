@@ -1,0 +1,2 @@
+# project_yoalcoolify
+Student project during my second year of associate degree in computer engineering. Yoalcoolify is an android project that allows the user to calculate your own alcohol level. You can also see what types of penalties you could have if you are arrested while driving, search buses and taxis around you and having the possibility to call someone in a repertory included in thhe application.
